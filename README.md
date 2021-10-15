@@ -1,8 +1,8 @@
 # _Portfolio_
 
-#### BY _**Colton Thatcher**_
+#### By _**Colton Thatcher**_
 
-#### _A portfolio for future employers
+#### A portfolio for future employers
 
 ## Technologies Used
 
