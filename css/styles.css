@@ -2,6 +2,12 @@
   color: rgb(4, 248, 37);
   background-color: royalblue;
   text-align: center;
+  display: block;
+  margin-right: auto;
+  margin-left: auto;
+  box-sizing: border-box;
+  padding: 20px;
+  
 }
 
 .highlight {
@@ -21,14 +27,13 @@
   height: 80%;
 }
 
-.column1 {
+.box1 {
   border: 20px solid green;
   padding: 40px;
-  float: right;
   background-color: indianred;
   display: block;
-  margin-left: auto;
-  margin-right: auto;
+  margin-left: 250px;
+  margin-right: 250px;
 }
 
 img {
