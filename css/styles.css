@@ -1,7 +1,16 @@
 .important {
-  color: teal;
+  color: rgb(4, 248, 37);
+  background-color: royalblue;
 }
 
 .highlight {
   color: red;
+  background-color: rgb(253, 253, 253);
+}
+
+.sidebar {
+  float: left;
+  background-color: salmon;
+  width: 20%;
+
 }
