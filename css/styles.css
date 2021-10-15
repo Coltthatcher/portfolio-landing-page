@@ -1,6 +1,7 @@
 .important {
   color: rgb(4, 248, 37);
   background-color: royalblue;
+  text-align: center;
 }
 
 .highlight {
@@ -12,5 +13,28 @@
   float: left;
   background-color: salmon;
   width: 20%;
+  
+}
 
+.column {
+  width: 60%;
+  height: 80%;
+}
+
+.column1 {
+  border: 20px solid green;
+  padding: 40px;
+  float: right;
+  background-color: indianred;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+img {
+  height: 50%;
+  width: 50%;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
 }
