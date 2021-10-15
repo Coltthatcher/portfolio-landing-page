@@ -24,7 +24,7 @@ _{This is the start to a Portfolio I will be using throughout and after Epicodus
 
 ## Known Bugs
 
-*_no known bugs or issues
+*_When adding a README.md all CSS changes seem to vanish from my website.
 
 ## License
 
