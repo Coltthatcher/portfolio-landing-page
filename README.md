@@ -1,4 +1,4 @@
-[Githubpages](https://github.com/Coltthatcher/portfolio-landing-page/deployments/activity_log?environment=github-pages)
+[Githubpages](https://coltthatcher.github.io/portfolio-landing-page/)
 
 # _Portfolio_
 
